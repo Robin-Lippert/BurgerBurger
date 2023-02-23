@@ -3,7 +3,7 @@
 - lettuce
 
 
-- Patty
 
+- Patty
 
 ## Bottom Bun
