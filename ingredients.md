@@ -1,9 +1,9 @@
 ## Top Bun
-onion
-lettuce
+- onion
+- lettuce
 
 
-Patty
+- Patty
 
 
 ## Bottom Bun
